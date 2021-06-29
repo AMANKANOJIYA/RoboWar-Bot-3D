@@ -4,22 +4,25 @@ Robowar model build in solidworks
 
 ## FINAL ASSEMBLY
 
-<u><b><h6 align="center">Top View</h6></b></u>
+<u><b><h3 align="center">Top View</h3></b></u>
 
-<img src="https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/top.jpeg" width="70%"></img>
+<img src="https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/top.jpeg" width="100%" align="center"></img>
 <!-- ![Top View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/top.jpeg) -->
 
 
-<u><b><h6 align="center">Side View</h6></b></u>
+<u><b><h3 align="center">Side View</h3></b></u>
 
-![Side View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/side.jpeg)
-
-
-<u><b><h6 align="center">Front View</h6></b></u>
-
-![Front View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/front.jpeg)
+<img src="https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/side.jpeg" width="100%" align="center"></img>
+<!-- ![Side View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/side.jpeg) -->
 
 
-<u><b><h6 align="center">ISO View</h6></b></u>
+<u><b><h3 align="center">Front View</h3></b></u>
 
-![ISO View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/iso.jpeg)
+<img src="https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/front.jpeg" width="100%" align="center"></img>
+<!-- ![Front View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/front.jpeg) -->
+
+
+<u><b><h3 align="center">ISO View</h3></b></u>
+
+<img src="https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/iso.jpeg" width="100%" align="center"></img>
+<!-- ![ISO View](https://github.com/AMANKANOJIYA/RoboWar-Bot-3D/blob/master/Components/iso.jpeg) -->
